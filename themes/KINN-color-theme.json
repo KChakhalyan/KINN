@@ -613,7 +613,7 @@
 		"name": "Classes",
 		"scope": "support.class, entity.name.type.class",
 		"settings": {
-		  "foreground": "#3cff00"
+		  "foreground": "#7dff49"
 		}
 	  },
 	  {
@@ -736,7 +736,7 @@
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
-		  "foreground": "#74bc40"
+		  "foreground": "#8fd420"
 		}
 	  },
 	  {
@@ -778,7 +778,7 @@
 		"name": "Tags",
 		"scope": "entity.name.tag",
 		"settings": {
-		  "foreground": "#ff5e6a"
+		  "foreground": "#1cb2f8"
 		}
 	  },
 	  {
