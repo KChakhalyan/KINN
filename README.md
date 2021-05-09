@@ -4,7 +4,7 @@
 
 ## The VSCode Theme
 
-The theme is created in online theme [generator](https://themes.vscode.one/user/KChakhalyan)
+The theme is created in online theme [generator](https://themes.vscode.one)
 
 <br>
 
