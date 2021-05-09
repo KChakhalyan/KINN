@@ -18,7 +18,7 @@
 
 | Name             | hex code   | Color                                         |
 | ---------------- | ---------- | --------------------------------------------- |
-| Sky Blue Crayola | **00e3ff** | ![Preview](./images/svg/blue-sky-crayola.svg) |
+| Sky Blue Crayola | **00e3ff** | ![](./images/svg/blue-sky-crayola.svg) |
 | Cyber Yellow     | **ffd325** | ![Preview](./images/svg/cyber-yellow.svg)     |
 | Atomic Tangerine | **ff9252** | ![Preview](./images/svg/atomic-tangerine.svg) |
 | Fiery Rose       | **ff5e6a** | ![Preview](./images/svg/fiery-rose.svg)       |
