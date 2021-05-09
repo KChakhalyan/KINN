@@ -8,6 +8,8 @@ The theme is created in online theme [generator](https://themes.vscode.one/user/
 
 <br>
 
+# A colorfull syntax
+
 # README
 
 ## This is the README for your extension "kinn-theme-vscode"
