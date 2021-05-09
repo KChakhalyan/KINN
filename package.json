@@ -1,0 +1,21 @@
+{
+    "name": "kinn-theme-vscode",
+    "displayName": "KINN",
+    "description": "The VS Code theme, that are created with love!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "KINN",
+                "uiTheme": "vs-dark",
+                "path": "./themes/KINN-color-theme.json"
+            }
+        ]
+    }
+}
