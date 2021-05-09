@@ -1,7 +1,5 @@
 # KINN Theme for VS Code
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 [![Version](http://vsmarketplacebadge.apphb.com/version/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode) [![Version](http://vsmarketplacebadge.apphb.com/rating-star/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode)
 
 ![Preview](./images/syntax.png)
