@@ -1,4 +1,4 @@
-![repository-open-graph-template](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/7si9joVJMhfib7AYUUZG1i4cY383/2B6sJMWs-default.jpeg)
+![Preview](./images/syntax.png)
 
 <h1 align="center">KINN</h1>
 
