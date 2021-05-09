@@ -2,7 +2,7 @@
     "name": "kinn-theme-vscode",
     "displayName": "KINN",
     "description": "The VS Code theme, that are created with love!",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "kinn-theme",
     "icon": "images/kinn-logo-512.png",
     "engines": {
