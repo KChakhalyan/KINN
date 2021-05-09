@@ -4,8 +4,6 @@
 
 ## The VSCode Theme
 
-The theme is created in online theme [generator](https://themes.vscode.one)
-
 <br>
 
 # A colorfull syntax
