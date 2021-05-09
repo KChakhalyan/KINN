@@ -2,12 +2,26 @@
     "name": "kinn-theme-vscode",
     "displayName": "KINN",
     "description": "The VS Code theme, that are created with love!",
-    "version": "0.0.1",
+    "version": "0.0.1",  
+    "publisher": "kinn-theme",
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
+    ],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/KChakhalyan/KINN"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "kinn",
+        "kin",
+        "the dark theme",
+        "vs code theme",
+        "vs code dark theme"
     ],
     "contributes": {
         "themes": [
