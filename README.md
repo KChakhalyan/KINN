@@ -1,6 +1,9 @@
 # KINN Theme for VS Code
 
-[![Version](http://vsmarketplacebadge.apphb.com/version/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode) [![Version](http://vsmarketplacebadge.apphb.com/rating-star/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode)
+[![Version](https://vsmarketplacebadge.apphb.com/version/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode) [![Version](https://vsmarketplacebadge.apphb.com/rating-star/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode)
+
+<!--
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150px" height="auto" /> -->
 
 ![Preview](./images/syntax.png)
 
@@ -14,11 +17,11 @@
 
 # Colors
 
-| Name             | hex code   | Color                                         |
-| ---------------- | ---------- | --------------------------------------------- |
-| Sky Blue Crayola | **00e3ff** | ![Preview](./images/svg/blue-sky-crayola.svg) |
-| Cyber Yellow     | **ffd325** | ![Preview](./images/svg/cyber-yellow.svg)     |
-| Atomic Tangerine | **ff9252** | ![Preview](./images/svg/atomic-tangerine.svg) |
-| Fiery Rose       | **ff5e6a** | ![Preview](./images/svg/fiery-rose.svg)       |
-| Heliotrope       | **dd69ff** | ![Preview](./images/svg/heliotrope.svg)       |
-| End more ...     |            |                                               |
+| Name             | hex code  | Color                                                                    |
+| ---------------- | --------- | ------------------------------------------------------------------------ |
+| Sky Blue Crayola | `#00e3ff` | <img src="./images/png/sky-blue-crayola.png" width="50px" height="20px"> |
+| Cyber Yellow     | `#ffd325` | <img src="./images/png/cyber-yellow.png" width="50px" height="20px">     |
+| Atomic Tangerine | `#ff9252` | <img src="./images/png/atomic-tangerine.png" width="50px" height="20px"> |
+| Fiery Rose       | `#ff5e6a` | <img src="./images/png/fiery-rose.png" width="50px" height="20px">       |
+| Heliotrope       | `#dd69ff` | <img src="./images/png/heliotrope.png" width="50px" height="20px">       |
+| End more ...     |           |                                                                          |
