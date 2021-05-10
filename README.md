@@ -19,9 +19,10 @@
 
 | Name             | hex code  | Color                                                                    |
 | ---------------- | --------- | ------------------------------------------------------------------------ |
+| Blue Jeans       | `#48acff` | <img src="./images/png/blue-jeans.png" width="50px" height="20px">       |
 | Sky Blue Crayola | `#00e3ff` | <img src="./images/png/sky-blue-crayola.png" width="50px" height="20px"> |
 | Cyber Yellow     | `#ffd325` | <img src="./images/png/cyber-yellow.png" width="50px" height="20px">     |
 | Atomic Tangerine | `#ff9252` | <img src="./images/png/atomic-tangerine.png" width="50px" height="20px"> |
 | Fiery Rose       | `#ff5e6a` | <img src="./images/png/fiery-rose.png" width="50px" height="20px">       |
 | Heliotrope       | `#dd69ff` | <img src="./images/png/heliotrope.png" width="50px" height="20px">       |
-| End more ...     |           |                                                                          |
+| And more ...     |           |                                                                          |
