@@ -1,9 +1,6 @@
 # KINN Theme for VS Code
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode) [![Version](https://vsmarketplacebadge.apphb.com/rating-star/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode)
-
-<!--
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" width="150px" height="auto" /> -->
+[![Version](https://vsmarketplacebadge.apphb.com/version/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode) [![Version](https://vsmarketplacebadge.apphb.com/rating-star/kinn-theme.kinn-theme-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Preview](./images/syntax.png)
 
