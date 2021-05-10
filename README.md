@@ -24,4 +24,4 @@
 | Atomic Tangerine | `#ff9252` | <img src="./images/png/atomic-tangerine.png" width="50px" height="20px"> |
 | Fiery Rose       | `#ff5e6a` | <img src="./images/png/fiery-rose.png" width="50px" height="20px">       |
 | Heliotrope       | `#dd69ff` | <img src="./images/png/heliotrope.png" width="50px" height="20px">       |
-| End more ...     |           |                                                                          |
+| And more ...     |           |                                                                          |
