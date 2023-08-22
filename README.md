@@ -1,6 +1,6 @@
 # KINN Theme for VS Code
 
-(https://marketplace.visualstudio.com/items?itemName=kinn-theme.kinn-theme-vscode) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Static Badge](https://img.shields.io/badge/Version-1.0-blue)
 
 
